@@ -1,0 +1,40 @@
+<mxfile host="www.draw.io" modified="2019-11-06T16:01:45.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="KxUbbbM_eNz5rBJBMII1" version="12.2.0" type="github" pages="1">
+  <diagram id="VmT1LkWnuB_dBGMfcEaX" name="Page-1">
+    <mxGraphModel dx="856" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="69587OJLfGmKJX35gofr-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="120" width="170" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="69587OJLfGmKJX35gofr-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.cloud;" parent="1" vertex="1">
+          <mxGeometry x="77" y="110" width="30" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="69587OJLfGmKJX35gofr-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.975;exitY=0.722;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.088;entryY=0.542;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="69587OJLfGmKJX35gofr-3" target="69587OJLfGmKJX35gofr-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="160" as="sourcePoint"/>
+            <mxPoint x="182" y="161" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69587OJLfGmKJX35gofr-2" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Network.svg;" parent="1" vertex="1">
+          <mxGeometry x="183.5" y="150" width="36" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="69587OJLfGmKJX35gofr-3" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VPN_Gateway.svg;" parent="1" vertex="1">
+          <mxGeometry x="106.5" y="139" width="27" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="69587OJLfGmKJX35gofr-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.virtual_machine;" parent="1" vertex="1">
+          <mxGeometry x="107" y="186" width="24" height="24" as="geometry"/>
+        </mxCell>
+        <mxCell id="69587OJLfGmKJX35gofr-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.042;exitY=0.567;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="69587OJLfGmKJX35gofr-12" target="69587OJLfGmKJX35gofr-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="183.5" y="193" as="sourcePoint"/>
+            <mxPoint x="160" y="193" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="69587OJLfGmKJX35gofr-12" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Network.svg;" parent="1" vertex="1">
+          <mxGeometry x="184.5" y="187" width="36" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
